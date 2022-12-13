@@ -1,5 +1,3 @@
-#edit
-
 import scrap_jobs
 
 def titles():
